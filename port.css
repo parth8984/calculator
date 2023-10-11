@@ -1,0 +1,67 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    height: 100vh;
+    justify-content: center;
+    text-align: center;
+    margin-top: 5px;
+
+}
+.Main-div{
+    border: 1px solid red;
+    width: 13%;
+    height: 210px;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 5px;
+}
+input{
+    margin-top: 5px;
+    padding: 5px 6px;
+    margin-left: -10px;
+    border-radius: 8px;
+    border: none;
+    background-color: red;
+    outline: none;
+}
+.row{
+    margin: -2px;
+    width: 100%;
+    text-align: center;
+    
+   
+    
+}
+button{
+    padding: 8px 14px;
+
+ margin-top: 5px;
+ border-radius: 20px;
+ border: none;
+ outline: none;
+ color: white;
+ background-color: black;
+ font-size: px;
+}
+ .parth {
+    background-color: rgb(250, 137, 8);
+
+}
+.patel{
+    background-color: gray;
+    color: black;
+    font-size: 8px;
+    border-radius: 50px;
+}
+.ram{
+    padding: 8px 35px;
+}
+.shyam{
+    border-radius: 15px;
+    font-size: 10px;
+    padding: 5px 15px;
+}
